@@ -12,7 +12,7 @@ namespace Basic.Models
         public string Postion { get; set; }
 
         public double Salary { get; set; }
-        public string HireDate { get; set; }
+        public DateOnly HireDate { get; set; }
         public string IDProofTypeId { get; set; }
 
     }

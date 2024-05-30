@@ -80,6 +80,17 @@ namespace Basic.Controllers
             return Ok("Deleted successfully");
         }
 
+        [HttpPut("Updateemployee")]
+        public IActionResult UpdateDepartment(Employee employee)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                connection.Open();
+                var result = connection.Execute("usp_UpdateEmployee", new { Id = employee.Id, Email= employee.Email, FName = employee.Name, DepartmentID = employee.DepartmentId, Postion = employee.Postion, Salary =employee.Salary }, commandType: CommandType.StoredProcedure);
+            }
+            return Ok("Updated Details");   
+        }
+
         [HttpPost]
         public IActionResult UploadImage(IFormFile file)   // IForm file is a sepcified variable for getting files from 
         {
