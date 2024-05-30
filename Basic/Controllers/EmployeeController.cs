@@ -40,7 +40,7 @@ namespace Basic.Controllers
             {
                 connection.Open();
                 var result = connection.Execute("usp_InsertEmployee",
-                new { emp.Id, emp.Fname , emp.Email, emp.DepartmentId, emp.Postion, emp.Salary, emp.HireDate },
+                new { emp.Id, emp.Name , emp.Email, emp.DepartmentId, emp.Postion, emp.Salary, emp.HireDate },
                 commandType: CommandType.StoredProcedure);
                 return Ok("Inserted successfully.");
             }
