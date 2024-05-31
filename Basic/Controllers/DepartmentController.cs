@@ -13,23 +13,7 @@ namespace Basic.Controllers
     [ApiController]
     public class DepartmentController : ControllerBase
     {
-        //private readonly string _connectionString;
-
-        //public DepartmentController()
-        //{
-        //    _connectionString = "Data Source=114.143.62.148;Initial Catalog=EmployeeManagement;MultipleActiveResultSets=True;TrustServerCertificate=True;Uid=hbits-mihir;password=lwC655E00lZh";
-        //}
-        //[HttpGet("GetDepartment")]
-        //public IActionResult GetDepartments()
-        //{
-        //    using (var connection = new SqlConnection("_connectionString"))
-        //    {
-        //        connection.Open();
-        //        string query = "SELECT * FROM tblDepartments";
-        //        var departments = connection.Query<Department>(query);
-        //        return Ok(departments);
-        //    }
-        //}
+        
 
 
         private readonly string _connectionString;

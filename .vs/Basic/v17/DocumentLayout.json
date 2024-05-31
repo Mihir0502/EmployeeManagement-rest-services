@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\repos\\Basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +23,28 @@
       "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\departmentall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\models\\idproof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\models\\idproof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\repos\\Basic\\Basic\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basic\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basic\\EmployeeAll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,16 +66,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Basic\\Models\\Employee.cs",
-              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Employee.cs",
-              "RelativeToolTip": "Basic\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Basic\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Basic\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:19:35.646Z",
+              "WhenOpened": "2024-05-25T09:11:46.336Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentAll.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeDocumentMoniker": "Basic\\DepartmentAll.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeToolTip": "Basic\\DepartmentAll.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:12:28.87Z"
             },
             {
               "$type": "Document",
@@ -73,69 +97,31 @@
               "RelativeDocumentMoniker": "Basic\\ImageHandler.cs",
               "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\ImageHandler.cs",
               "RelativeToolTip": "Basic\\ImageHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T07:57:12.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\appsettings.json",
-              "RelativeDocumentMoniker": "Basic\\appsettings.json",
-              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\appsettings.json",
-              "RelativeToolTip": "Basic\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-28T16:28:41.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentAll.cs",
-              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
-              "RelativeDocumentMoniker": "Basic\\DepartmentAll.cs",
-              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
-              "RelativeToolTip": "Basic\\DepartmentAll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T09:12:28.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeAll.cs",
-              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
-              "RelativeDocumentMoniker": "Basic\\EmployeeAll.cs",
-              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
-              "RelativeToolTip": "Basic\\EmployeeAll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:44:02.929Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Basic\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Basic\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAlwFkAAAAJAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Basic\\Models\\Employee.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Employee.cs",
+              "RelativeToolTip": "Basic\\Models\\Employee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T09:11:46.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:19:35.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Basic\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Basic\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAEwFgAAAAQAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAtwB0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T05:00:16.741Z",
               "EditorCaption": ""
@@ -143,12 +129,73 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IdProof.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Models\\IdProof.cs",
+              "RelativeDocumentMoniker": "Basic\\Models\\IdProof.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Models\\IdProof.cs",
+              "RelativeToolTip": "Basic\\Models\\IdProof.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:13:53.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Basic\\Models\\Department.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Models\\Department.cs",
+              "RelativeToolTip": "Basic\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:13:47.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeAll.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeDocumentMoniker": "Basic\\EmployeeAll.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeToolTip": "Basic\\EmployeeAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:38:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\appsettings.json",
+              "RelativeDocumentMoniker": "Basic\\appsettings.json",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\appsettings.json",
+              "RelativeToolTip": "Basic\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T16:28:41.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Department.cs",
+              "RelativeDocumentMoniker": "Basic\\Department.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Department.cs",
+              "RelativeToolTip": "Basic\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:13:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Program.cs",
               "RelativeDocumentMoniker": "Basic\\Program.cs",
               "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Program.cs",
               "RelativeToolTip": "Basic\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T16:06:06.338Z"
             }

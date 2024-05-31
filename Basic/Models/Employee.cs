@@ -1,19 +1,21 @@
 ﻿using System.Diagnostics.CodeAnalysis;
+using System.Text.Json.Serialization;
 
 namespace Basic.Models
 {
     public class Employee
     {
-        public int Id { get; set; }
-        public string FName  { get; set; } 
+        public int Id { get; set; } = 0;
+        public string FName { get; set; } = string.Empty;
 
-        public string Email { get; set; }
-        public string DepartmentId { get; set; }
-        public string Postion { get; set; }
+        public string Email { get; set; } = string.Empty;
+        public string DepartmentId { get; set; } = string.Empty;
+        public string Postion { get; set; } = string.Empty;
 
-        public double Salary { get; set; }
-        public DateOnly HireDate { get; set; }
-        public string IDProofTypeId { get; set; }
+        public double Salary { get; set; } = 0.0;
+        public string HireDate { get; set; } = string.Empty;
+
+        public string IDProofTypeId { get; set; } = string.Empty;
 
     }
 }
